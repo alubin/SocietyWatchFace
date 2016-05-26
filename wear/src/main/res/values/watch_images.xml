@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="backgroundIds">
+        <item>@drawable/societybackground</item>
+    </array>
+    <array name="faceIds">
+        <item>@drawable/societyface</item>
+    </array>
+    <array name="minuteIds">
+        <item>@drawable/society_minute_hand</item>
+    </array>
+    <array name="hourIds">
+        <item>@drawable/society_hour_hand</item>
+    </array>
+</resources>
